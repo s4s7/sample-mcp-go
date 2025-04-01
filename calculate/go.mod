@@ -1,4 +1,4 @@
-module github.com/s4s7/sample-mcp-go
+module github.com/s4s7/sample-mcp-go/calculate
 
 go 1.24.1
 
